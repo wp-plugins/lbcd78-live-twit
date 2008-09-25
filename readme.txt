@@ -1,7 +1,6 @@
-Contributors: lbcd78
-
 === Plugin Name ===
 
+Contributors: lbcd78
 Donate link: http://www.lbcd78.fr/2008/02/12/nouvelle-version-de-live-twit-avec-plusieurs-options-supplementaires/
 Tags: comments, spam
 Requires at least: 2.0
@@ -27,6 +26,3 @@ At the bottom of the admin interface, we can see the banner, it is exactly what 
 
 1. Upload files to the `/wp-content/plugins/llt/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-
-
-

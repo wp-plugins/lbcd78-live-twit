@@ -1,17 +1,19 @@
-=== Plugin Name ===
 Contributors: lbcd78
+=== Plugin Name ===
 Donate link: http://www.lbcd78.fr/
 Tags: comments, spam
 Requires at least: 2.0
 Tested up to: 2.6.2
 Stable tag: 0.4
 
+
 Show a rss feed in a "bandeau" at the bottom of the browser.
-
 == Description ==
-
 	
-First, news, you can now choose to have several streams and determine the speed of change in the flow of titles displayed. Optimization later, the style sheet is no longer included in the page but in a file devoted to hook Header engine Wordpress blog.
+
+Show rss feed in a banner at the bottom of the your wordpress blog.
+
+You can now choose to have several streams and determine the speed of change in the flow of titles displayed. Optimization later, the style sheet is no longer included in the page but in a file devoted to hook Header engine Wordpress blog.
 
 A small orange button with a down arrow has occurred, it can quickly return to the download page of this plugin.
 

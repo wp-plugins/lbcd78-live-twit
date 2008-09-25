@@ -1,0 +1,13 @@
+/* twit */
+#twit{  position: fixed; }
+
+#twit {width:100%;bottom:0;left:0;background: #000;color:white;opacity: 0.7;-moz-opacity: 0.7;-khtml-opacity: 0.7;filter: alpha(opacity=80);}
+#twit a { color:white;   text-decoration:none; }
+#twit .theme {float:left !important; margin:8px 0 7px 6px;font-family:verdana; font-size:15px; color:#e9d426; font-weight:bold;}
+#twit .titre {float:left !important; margin:8px 0 7px 6px;font-family:verdana; font-size:15px; color:#fff; }
+#twit #opened {height:30px; margin:0 8px 0 5px;}
+#close {float:left !important; margin:8px 0 0px 0;}
+#twit #closed {height:15px;float:left;margin:3px 8px 2px 8px; font-size:10px;}
+#rss { display: block; float: right;margin-top: 2px;margin-right: 2px; padding:0;}
+#dl { display: block; float: right;margin-top: 2px;margin-right: 2px;padding:0;}
+#twit .dt { display: block;  float: left;margin: 8px 0 7px 6px; font-size:15px; color: blue; font-weight:bold;}

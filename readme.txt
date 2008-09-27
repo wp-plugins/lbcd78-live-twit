@@ -2,7 +2,7 @@
 
 Contributors: lbcd78
 Donate link: http://www.lbcd78.fr/2008/02/12/nouvelle-version-de-live-twit-avec-plusieurs-options-supplementaires/
-Tags: comments, spam
+Tags: rss, overlay, twit, plugin, banner
 Requires at least: 2.0
 Tested up to: 2.6.2
 Stable tag: 0.4

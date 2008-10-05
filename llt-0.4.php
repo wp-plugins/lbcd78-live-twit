@@ -65,7 +65,9 @@ foreach( $settings as $key => $value )
 	}
 }
 
-$url =  get_bloginfo('url')."/wp-content/plugins/llt";    # put your directory here !!!
+$G_dir = split( "/", dirname( __FILE__ ) );
+
+$url =  get_bloginfo('url')."/wp-content/plugins/".$G_dir[count($G_dir)-1];    # put your directory here !!!
 
 echo ("
 
@@ -198,7 +200,8 @@ echo( "
 
 # 0.3 : optimisation
 function llt_header() {
-	$url =  get_bloginfo('url')."/wp-content/plugins/llt";
+	$G_dir = split( "/", dirname( __FILE__ ) );
+	$url =  get_bloginfo('url')."/wp-content/plugins/".$G_dir[count($G_dir)-1];
 	echo( "<link rel=\"stylesheet\" type=\"text/css\" href=\"$url/llt.css\" \/>" );
 }
 
